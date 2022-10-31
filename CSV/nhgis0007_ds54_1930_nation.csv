@@ -1,0 +1,3 @@
+GISJOIN,YEAR,NATION,NATIONA,AREANAME,BFC001,BFC002,BFC003,BFC004,BFC005,BFC006,BFC007,BFC008,BFC009,BFC010,BFC011
+GIS Join Match Code,Data File Year,Nation Name,Nation Code,Area name,Under 3 acres,3 to 9 acres,10 to 19 acres,20 to 49 acres,50 to 99 acres,100 to 174 acres,175 to 259 acres,260 to 499 acres,500 to 999 acres,1000 to 4999 acres,5000 acres or more
+"G2","1930","Contiguous United States","2","Contiguous United States",43007,315497,559617,1440388,1374965,1342927,520593,451338,159696,71321,9299

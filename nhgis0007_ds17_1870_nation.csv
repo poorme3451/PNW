@@ -1,0 +1,3 @@
+GISJOIN,YEAR,NATION,NATIONA,AREANAME,AKP001,AKQ001,AKQ002,AKQ003,AKQ004,AKQ005,AKQ006,AKQ007,AKQ008,AKR001,AKS001
+GIS Join Match Code,Data File Year,Nation Name,Nation Code,Area name,Total,Under 3 acres,3 to 9 acres,10 to 19 acres,20 to 49 acres,50 to 99 acres,100 to 499 acres,500 to 999 acres,1000 acres and over,Total,Total
+"G1","1870","United States","1","United States",2659985,6875,172021,294607,847614,754221,565054,15873,3720,252148,2053996

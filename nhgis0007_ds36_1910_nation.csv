@@ -1,0 +1,3 @@
+GISJOIN,YEAR,NATION,NATIONA,AREANAME,A14001,A14002,A14003,A14004,A14005,A14006,A14007,A14008,A14009,A14010
+GIS Join Match Code,Data File Year,Nation Name,Nation Code,Area name,Below 3 acres,3 to 9 acres,10 to 19 acres,20 to 49 acres,50 to 99 acres,100 to 174 acres,175 to 259 acres,260 to 499 acres,500 to 999 acres,1000+ acres
+"G2","1910","Contiguous United States","2","Contiguous United States",18033,317010,504123,1414376,1438069,1516286,534191,443984,125295,50135

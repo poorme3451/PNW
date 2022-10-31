@@ -1,0 +1,3 @@
+GISJOIN,YEAR,NATION,NATIONA,AREANAME,AOM001,AOM002,AOM003,AOM004,AOM005,AOM006,AOM007,AOM008,AON001,AOQ001,AOR001,AOD001,AOD002,AOD003,AOE001,AOE002
+GIS Join Match Code,Data File Year,Nation Name,Nation Code,Area name,Under 3 acres,3 to 9 acres,10 to 19 acres,20 to 49 acres,50 to 99 acres,100 to 499 acres,500 to 999 acres,1000 or more acres,Average size of farms,Total,Land in farms,Farmland and improvements,Implements and machinery,Livestock,Building and repairing fences,Fertilizer purchased
+"G2","1880","Contiguous United States","2","Contiguous United States",4352,134889,254749,781574,1032810,1695983,75972,28578,134,4008907,536081824,2147483647,406520064,1500384768,77763472,28586396

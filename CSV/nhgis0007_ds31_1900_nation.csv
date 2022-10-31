@@ -1,0 +1,4 @@
+GISJOIN,YEAR,NATION,NATIONA,AREANAME,AZL001,AZL002,AZL003,AZL004,AZL005,AZL006,AZL007,AZL008,AZL009,AZL010
+GIS Join Match Code,Data File Year,Nation Name,Nation Code,Area name,1 to 2 acres,3 to 9 acres,10 to 19 acres,20 to 49 acres,50 to 99 acres,100 to 174 acres,175 to 259 acres,260 to 499 acres,500 to 999 acres,1000 or more acres
+"G1","1900","United States","1","United States",41882,226564,407012,1257785,1366167,1422328,490104,377992,102547,47276
+"G2","1900","Contiguous United States","2","Contiguous United States",41385,225844,406641,1257496,1366038,1422262,490069,377951,102526,47160

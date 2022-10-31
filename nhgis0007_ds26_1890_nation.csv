@@ -1,0 +1,3 @@
+GISJOIN,YEAR,NATION,NATIONA,AREANAME,ATK001,ATK002,ATK003,ATK004,ATK005,ATK006,ATK007
+GIS Join Match Code,Data File Year,Nation Name,Nation Code,Area name,Under 10 acres,10 to 19 acres,20 to 49 acres,50 to 99 acres,100 to 499 acres,500 to 999 acres,1000 acres or more
+"G2","1890","Contiguous United States","2","Contiguous United States",150194,265550,902777,1121485,2008694,84395,31546

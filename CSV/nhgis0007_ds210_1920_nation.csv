@@ -1,0 +1,3 @@
+GISJOIN,YEAR,NATION,NATIONA,AREANAME,AB3S001,AB3S002,AB3S003,AB3S004,AB3S005,AB3S006,AB3S007,AB3S008,AB3S009,AB3S010,AB3S011
+GIS Join Match Code,Data File Year,Nation Name,Nation Code,Area name,"Number of farms of below 3 acres, 1920","Number of farms of 3-9 acres, 1920","Number of farms of 10-19 acres, 1920","Number of farms of 20-49 acres, 1920","Number of farms of 50-99 acres, 1920","Number of farms of 100-174 acres, 1920","Number of farms of 175-259 acres, 1920","Number of farms of 260-499 acres, 1920","Number of farms of 500-999 acres, 1920","Number of farms of 1000-4999 acres, 1920","Number of farms of 5000+ acres, 1920"
+"G2","1920","Contiguous United States","2","CONT. UNITED STATES",20350,268422,507763,1503732,1474745,1449630,530800,475677,149819,60019,7386
